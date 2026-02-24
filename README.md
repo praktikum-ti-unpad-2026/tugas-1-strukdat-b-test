@@ -3,7 +3,7 @@
 
 > Materi: Struct
 > Pengajar:
-## Nama - NPM
+## FARDAN FADHILAH ANDICHA PUTRA - 140810240084
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
